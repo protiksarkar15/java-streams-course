@@ -27,7 +27,7 @@ public class PersonDTO {
 
   @Override
   public String toString() {
-    return "PeopleDTO{" +
+    return "PersonDTO{" +
         "id=" + id +
         ", name='" + name + '\'' +
         ", age=" + age +
